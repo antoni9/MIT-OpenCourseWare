@@ -1,4 +1,4 @@
-from ps5 import *
+from ps05 import *
 
 #
 # Test code
