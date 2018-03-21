@@ -11,7 +11,7 @@ import random
 # (you don't need to understand this helper code)
 import string
 
-WORDLIST_FILENAME = "ps5_words.txt"
+WORDLIST_FILENAME = "ps05_words.txt"
 
 def load_words():
     """
